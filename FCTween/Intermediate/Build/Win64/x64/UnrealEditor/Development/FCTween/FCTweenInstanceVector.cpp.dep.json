@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gamedevelopment\\unrealengine\\projects\\5.4\\fumblefootball\\plugins\\fresh_cooked_tweens-main\\fresh_cooked_tweens_ue5\\fctween\\source\\fctween\\private\\fctweeninstancevector.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gamedevelopment\\unrealengine\\projects\\5.4\\fumblefootball\\intermediate\\build\\win64\\x64\\fumblefootballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\gamedevelopment\\unrealengine\\projects\\5.4\\fumblefootball\\plugins\\fresh_cooked_tweens-main\\fresh_cooked_tweens_ue5\\fctween\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fctween\\definitions.fctween.h",
+            "e:\\gamedevelopment\\unrealengine\\projects\\5.4\\fumblefootball\\plugins\\fresh_cooked_tweens-main\\fresh_cooked_tweens_ue5\\fctween\\source\\fctween\\public\\fctweeninstancevector.h",
+            "e:\\gamedevelopment\\unrealengine\\projects\\5.4\\fumblefootball\\plugins\\fresh_cooked_tweens-main\\fresh_cooked_tweens_ue5\\fctween\\source\\fctween\\public\\fctweeninstance.h",
+            "e:\\gamedevelopment\\unrealengine\\projects\\5.4\\fumblefootball\\plugins\\fresh_cooked_tweens-main\\fresh_cooked_tweens_ue5\\fctween\\source\\fctween\\public\\fceasing.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
